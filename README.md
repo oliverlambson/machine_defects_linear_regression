@@ -1,4 +1,4 @@
-# Linear regression: machine defects
+# Linear regression: Machine defect prediction
 
 Linear regression model to predict machine defects, including accompanying write-up.
 
