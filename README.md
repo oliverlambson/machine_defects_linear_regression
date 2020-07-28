@@ -4,4 +4,4 @@ Linear regression model to predict number of defective parts produced by a machi
 
 Includes accompanying write-up.
 
-*This uses a toy dataset. Completed as part of the University of Cambridge MPhil ISMM data modelling module.*
+*\* This uses a toy dataset. Completed as part of the University of Cambridge MPhil ISMM data modelling module.*
