@@ -1,6 +1,6 @@
 # Multiple linear regression: Machine defect prediction
 
-An OLS regression model to predict number of defective parts produced by a machine. 
+An OLS regression model to predict number of defective parts produced by a machine over the course of a year. 
 
 ---
 
